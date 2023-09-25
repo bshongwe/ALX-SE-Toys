@@ -4,21 +4,21 @@ All material copyright and licenses, herein, belong to their respective owners u
 
 ## Contents
 
-### 3. Avg_calc
+### 1. Avg_calc
 ---> ALX SE average score calculator
 
 
-### 4. Betty
+### 2. Betty
 ---> Betty linter and documentation files
 
 
-### 5. TEST_SUITE
+### 3. TEST_SUITE
 ---> Simple Shell test suite
 
 
-### 1. ALX TEST SUITE 2
+### 4. ALX TEST SUITE 2
 ---> Monty, Simple Shell and To DO pair project test suites
 
 
-### 2. ALX Tools
+### 5. ALX Tools
 ---> Hacker tools, C-file generative scripts, Simple Shell test (not sure about this one Mr. Osala)
