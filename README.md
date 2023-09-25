@@ -4,21 +4,24 @@ All material copyright and licenses, herein, belong to their respective owners u
 
 ## Contents
 
-### 1. ALX Tools
+### 1. ALX TEST SUITE 2
+---> Monty, Simple Shell and To DO pair project test suites
 
+
+### 2. ALX Tools
 ---> Hacker tools, C-file generative scripts, Simple Shell test (not sure about this one Mr. Osala)
 
 
-### 2. Avg_calc
 
+### 3. Avg_calc
 ---> ALX SE average score calculator
 
 
-### 3. Betty
 
+### 4. Betty
 ---> Betty linter and documentation files
 
 
-### 4. TEST_SUITE
 
+### 5. TEST_SUITE
 ---> Simple Shell test suite
