@@ -91,7 +91,6 @@ curl https://raw.githubusercontent.com/osala-eng/alx_tools/master/crackme3.sh -o
 # Simple shell checker
 
 
-
 ## Repo
 Original Copyright (c) 2012-2022 Scott Chacon and others
 
