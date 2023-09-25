@@ -73,7 +73,7 @@ agcc filename [OPTIONS]
 copy and paste the following link in terminal
 
 ```bash
-curl https://raw.githubusercontent.com/osala-eng/alx_tools/master/findcp.sh -o findcp && chmod a+x findcp
+curl https://raw.githubusercontent.com/bshongwe/alx_tools/master/findcp.sh -o findcp && chmod a+x findcp
 ```
 
 ## Usage
@@ -93,9 +93,9 @@ curl https://raw.githubusercontent.com/osala-eng/alx_tools/master/crackme3.sh -o
 
 
 ## Repo
+Original Copyright (c) 2012-2022 Scott Chacon and others
+
+Developed by
+Jashon Osala (c) 2022
 https://github.com/osala-eng/alx_tools
 
-
-Author:
-
-Jashon Osala c 2022

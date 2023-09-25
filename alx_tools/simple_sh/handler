@@ -9,7 +9,7 @@ TOOL_LOC="suites"
 
 # checker addresses
 
-address_00="https://raw.githubusercontent.com/bshongwe/alx_tools/master/simple_sh/t0/check_00.tar.gz"
+address_00="https://raw.githubusercontent.com/osala-eng/alx_tools/master/simple_sh/t0/check_00.tar.gz"
 
 file_00="check_00.tar.gz"
 
